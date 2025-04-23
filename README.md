@@ -31,15 +31,15 @@
 ### 📌 Meus projetos em destaque:
 
 - [`site-terapeuta-cleo-nunes`](https://github.com/killerbunny2108/TCC) – sistema de agendamento online para psicóloga
-- [`sistema-biblioteca-ts`](https://github.com/SEUNOME/sistema-biblioteca-ts) – biblioteca digital com controle de livros e leitores
-- [`sistema-bancario`](https://github.com/Lari-Donschen/projeto) – meu TCC do curso de informática 💡
+- [`sistema-biblioteca-ts`](https://github.com/Lari-Donschen/atividade-reforco) – biblioteca digital com controle de livros e leitores
+- [`sistema-bancario`](https://github.com/Lari-Donschen/projeto) – sistema de banco com saque, deposito e transferencias
 
 ---
 
 ### 📬 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEULINK)  
-- 📧 larissa.silva.donschen@email.com ou (47) 99788-8377
+- 💼 [LinkedIn](www.linkedin.com/in/larissa-da-silva-416616338)  
+- 📧 larissa.silva.donschen@gmail.com ou (47) 99788-8377
 
 ---
 
