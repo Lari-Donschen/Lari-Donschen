@@ -32,7 +32,7 @@
 
 - [`site-terapeuta-cleo-nunes`](https://github.com/killerbunny2108/TCC) – sistema de agendamento online para psicóloga
 - [`sistema-biblioteca-ts`](https://github.com/SEUNOME/sistema-biblioteca-ts) – biblioteca digital com controle de livros e leitores
-- [`meu-tcc`](https://github.com/SEUNOME/meu-tcc) – meu TCC do curso de informática 💡
+- [`sistema-bancario`](https://github.com/Lari-Donschen/projeto) – meu TCC do curso de informática 💡
 
 ---
 
